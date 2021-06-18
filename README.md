@@ -4,6 +4,14 @@
 
 Data and scripts are contained in the respective folders
 
+## Run in the cloud
+
+Click this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jsheunis/ohbm-handson-test3/HEAD)
+
+---
+
+## Run locally
+
 ## Installation
 
 Python is required. It is recommended to install and run the code in a virtual environment.
